@@ -12,6 +12,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "farmhash": "^3.0.0",
+    "mongoose": "^5.8.5",
     "socket.io": "^2.3.0",
     "socket.io-redis": "^5.2.0"
   }
